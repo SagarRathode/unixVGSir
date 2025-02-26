@@ -125,7 +125,7 @@ Qt --(wx widgets,vx works)
 
 # System Design
 
-Manish goyal book --- computer hub jogeshwari temple
+Manish goyal book --- computer hut jogeshwari temple
 
 1. **The Design of Unix operating system by Maurice J Bach - 350Rs *
 
